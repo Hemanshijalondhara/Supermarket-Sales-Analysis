@@ -90,7 +90,7 @@ Supermarket-Sales-Dashboard/
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](salesdashboard.png)
+![Dashboard](./sales%20dashboard.png)
 
 
 ---
